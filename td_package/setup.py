@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="td",
+    name="trialpack",
     version="0.1",
     packages=find_packages(),
     description="A custom 'this' module with programming principles and poem",
